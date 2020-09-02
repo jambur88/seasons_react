@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e22e16af1756f4dc2f91c61f7c628a2c",
+    "revision": "430029ef99fd1477f6815ae14651ce96",
     "url": "/seasons_react/index.html"
   },
   {
-    "revision": "76ac2088ea1d7e274c44",
+    "revision": "04bd065c24d21fd5f0ef",
     "url": "/seasons_react/static/css/main.c5c5e061.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/seasons_react/static/js/2.8b77c9df.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "76ac2088ea1d7e274c44",
-    "url": "/seasons_react/static/js/main.dc345ec0.chunk.js"
+    "revision": "04bd065c24d21fd5f0ef",
+    "url": "/seasons_react/static/js/main.6f81d744.chunk.js"
   },
   {
     "revision": "7d86cc5ad0cd6acc0440",
