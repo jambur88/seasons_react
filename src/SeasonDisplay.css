@@ -10,19 +10,19 @@
   right: 10px;
 }
 
-.season-display {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
-}
-
 .season-display.winter i {
   color: blue;
 }
 
 .season-display.summer i {
   color: red;
+}
+
+.season-display {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
 }
 
 .winter {
